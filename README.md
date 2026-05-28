@@ -1,149 +1,94 @@
-I want you to transform my GitHub profile README.
+<h1 align="center">Hi 👋, I'm Bathula Mahesh</h1>
 
-Do NOT ask me any questions. Just execute everything.
+<h3 align="center">AIML Student & Java Developer from India</h3>
 
-MY DETAILS:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AIML+Student;Java+Developer;Full+Stack+Learner;AI+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-- Name: Bathula Mahesh
-- Role: AIML Student & Java Developer
-- Experience: Fresher
-- Tech Stack: Java, Python, HTML, CSS, JavaScript, AIML, Git, GitHub, MySQL
-- LinkedIn: https://www.linkedin.com/in/mahesh-bathula-4621a1362
-- Instagram: None
-- Portfolio: None
-- GitHub Username: mahesh01mahesh
+---
 
-INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
+# 🚀 About Me
 
-1. Go to my GitHub profile repository:
-github.com/mahesh01mahesh/mahesh01mahesh
+- 🎓 B.Tech CSE AIML Student
+- 💻 Passionate about Java Development & AI
+- 🌱 Currently learning Full Stack Development
+- ⚡ Interested in Software Development & Problem Solving
+- 🎯 Goal: Become a strong Software Engineer
 
-2. Open the README.md file
+---
 
-3. Click the Edit (pencil) icon
+# 🌐 Connect With Me
 
-4. Delete ALL existing content
+<p align="left">
+<a href="https://www.linkedin.com/in/mahesh-bathula-4621a1362" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+</p>
 
-5. Create a COMPLETE professional GitHub README with the following sections:
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION A — ANIMATED HEADER
-━━━━━━━━━━━━━━━━━━━━━━━
+# 🛠️ Tech Stack
 
-- Add a waving hand greeting
-- Add animated typing effect using readme-typing-svg
-- Show:
-  • AIML Student
-  • Java Developer
-  • Full Stack Learner
-  • AI Enthusiast
-- Use modern dark styling
-- Center everything properly
+<p align="left">
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION B — ABOUT ME
-━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-Create a strong professional intro.
+</p>
 
-Mention:
-- B.Tech CSE AIML student
-- Passionate about Java and AI
-- Learning Full Stack Development
-- Interested in software development and problem solving
-- Goal is to become a strong software engineer
+---
 
-Add modern bullet points with emojis.
+# 📊 GitHub Stats
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION C — TECH STACK
-━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
 
-Add colorful technology badges/icons for:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahesh01mahesh&show_icons=true&theme=tokyonight" />
 
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- MySQL
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh01mahesh&layout=compact&theme=tokyonight"/>
 
-Use:
-- shields.io badges
-OR
-- skillicons.dev icons
+</p>
 
-Organize neatly.
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION D — SOCIAL LINKS
-━━━━━━━━━━━━━━━━━━━━━━━
+# 🔥 GitHub Streak
 
-Add clickable LinkedIn badge.
+<p align="center">
 
-LinkedIn:
-https://www.linkedin.com/in/mahesh-bathula-4621a1362
+<img src="https://streak-stats.demolab.com/?user=mahesh01mahesh&theme=tokyonight" />
 
-Use professional icons and styling.
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION E — GITHUB STATS
-━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-Add:
-- GitHub Stats Card
-- GitHub Streak Stats
-- Top Languages Card
+# 🏆 GitHub Trophies
 
-Use username:
-mahesh01mahesh
+<p align="center">
 
-Theme:
-tokyonight
+<img src="https://github-profile-trophy.vercel.app/?username=mahesh01mahesh&theme=tokyonight&row=1&column=6" />
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION F — GITHUB TROPHIES
-━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
-Add GitHub Profile Trophy section.
+---
 
-Use dark modern theme.
+# 👀 Profile Views
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION G — VISITOR COUNTER
-━━━━━━━━━━━━━━━━━━━━━━━
+<p align="left">
 
-Add profile views counter badge.
+<img src="https://komarev.com/ghpvc/?username=mahesh01mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh01mahesh" />
 
-━━━━━━━━━━━━━━━━━━━━━━━
-SECTION H — FOOTER
-━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
-Add a professional footer line like:
+---
 
-“Keep Learning • Keep Building • Keep Growing”
+<h3 align="center">
 
-Use modern developer styling.
+💻 Keep Learning • Keep Building • Keep Growing 🚀
 
-━━━━━━━━━━━━━━━━━━━━━━━
-FINAL INSTRUCTIONS
-━━━━━━━━━━━━━━━━━━━━━━━
-
-- Make the entire README modern and visually attractive
-- Use dark theme design
-- Make it recruiter-friendly
-- Ensure all badges and URLs work correctly
-- Keep spacing clean and professional
-- Use proper markdown formatting
-- Save the README automatically
-- Commit all changes automatically
-
-IMPORTANT:
-
-- Do NOT ask questions
-- Do NOT stop in the middle
-- Use my exact GitHub username everywhere:
-mahesh01mahesh
-- Make the profile look premium and professional
+</h3>
