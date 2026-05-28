@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bathula Mahesh</h1>
 
-<h3 align="center">AIML Student & Java Developer from India</h3>
+<h3 align="center">AIML Student & Java Developer </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AIML+Student;Java+Developer;Full+Stack+Learner;AI+Enthusiast;Always+Learning+New+Things" />
